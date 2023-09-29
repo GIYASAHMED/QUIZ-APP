@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background:  #583989;
+    text-align: center;
+}
+.quiz_container{
+    min-width: 60%;
+    height: 500px;
+    background:  	#826ba7;
+}
